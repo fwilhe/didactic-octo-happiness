@@ -1,1 +1,1 @@
-FROM python:3.12.0rc2-alpine3.18
+FROM ghcr.io/fwilhe/builder:v1
