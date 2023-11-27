@@ -1,1 +1,1 @@
-FROM ghcr.io/fwilhe/stunning-train:v1.0.0
+FROM ghcr.io/fwilhe/stunning-train:v2.0.0
