@@ -1,0 +1,1 @@
+FROM ghcr.io/fwilhe/stunning-train@sha256:459f2385ab203d27b32f6c34ff3939ec55ff40d9ac665f2cae393f05f2e0f0de
