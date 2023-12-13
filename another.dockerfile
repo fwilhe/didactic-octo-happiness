@@ -1,1 +1,1 @@
-FROM ghcr.io/fwilhe/stunning-train@sha256:459f2385ab203d27b32f6c34ff3939ec55ff40d9ac665f2cae393f05f2e0f0de
+FROM ghcr.io/gardenlinux/builder:607d5b94aa53ea134c4f9050d0b1c3c28807d305
